@@ -1,4 +1,4 @@
-# MUST Campus
+# MUST Campus - **Currently ready for a good backend developer who can collaborate and create backend-database**
 
 > Your campus life, all in one place — Meru University of Science & Technology
 
