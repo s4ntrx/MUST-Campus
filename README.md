@@ -7,7 +7,6 @@ A mobile-first Progressive Web App (PWA) for MUST students. Works offline, insta
 ---
 
 
----
 
 ## ✨ Features
 
@@ -48,5 +47,24 @@ mustcampus/
 ```
 
 
+
+<p align="center">
+  <img src="./assets/image1.jpg" alt="Image 1" width="400"/>
+  <br/><em> Home page-Campus Feed</em>
+</p>
+<p align="center">
+  <img src="./assets/image2.jpg" alt="Image 2" width="400"/>
+  <br/><em> Campus Events</em>
+</p>
+<p align="center">
+  <img src="./assets/image3.jpg" alt="Image 3" width="400"/>
+  <br/><em> Profile View </em>
+</p>
+<p align="center">
+  <img src="./assets/image4.jpg" alt="Image 4" width="400"/>
+  <br/><em> Campus Connect- WA Groups, Dating, In  app Messaging </em>
+</p>
+
+---
 
 *MUST Campus · Foundation of Innovations · Meru University of Science & Technology*
