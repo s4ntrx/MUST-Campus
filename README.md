@@ -48,22 +48,34 @@ mustcampus/
 
 
 
-<p align="center">
-  <img src="./assets/image1.jpg" alt="Image 1" width="400"/>
-  <br/><em> Home page-Campus Feed</em>
-</p>
-<p align="center">
-  <img src="./assets/image2.jpg" alt="Image 2" width="400"/>
-  <br/><em> Campus Events</em>
-</p>
-<p align="center">
-  <img src="./assets/image3.jpg" alt="Image 3" width="400"/>
-  <br/><em> Profile View </em>
-</p>
-<p align="center">
-  <img src="./assets/image4.jpg" alt="Image 4" width="400"/>
-  <br/><em> Campus Connect- WA Groups, Dating, In  app Messaging </em>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/image1.jpg" alt="Home page - Campus Feed" width="400"/>
+      <br/><em>Home page - Campus Feed</em>
+    </td>
+    <td width="60"></td>
+    <td align="center">
+      <img src="./assets/image2.jpg" alt="Campus Events" width="400"/>
+      <br/><em>Campus Events</em>
+    </td>
+  </tr>
+
+  <!-- Space between rows -->
+  <tr><td colspan="3" height="60"></td></tr>
+
+  <tr>
+    <td align="center">
+      <img src="./assets/image3.jpg" alt="Profile View" width="400"/>
+      <br/><em>Profile View</em>
+    </td>
+    <td width="60"></td>
+    <td align="center">
+      <img src="./assets/image4.jpg" alt="Campus Connect" width="400"/>
+      <br/><em>Campus Connect - WA Groups, Dating, In-app Messaging</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
