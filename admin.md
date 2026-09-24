@@ -28,10 +28,3 @@ Log out and back in → Profile tab → scroll down → **Admin Panel** appears.
 
 ---
 
-## 📝 Updating the App
-
-1. Make changes to `index.html` on GitHub (click ✏️ pencil icon)
-2. Commit changes
-3. Vercel auto-deploys in ~30 seconds — no manual action needed
-
----
