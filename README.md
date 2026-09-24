@@ -3,7 +3,9 @@
 > Your campus life, all in one place — Meru University of Science & Technology
 
 A mobile-first Progressive Web App (PWA) for MUST students. Works offline, installable on Android and iOS, no backend required.
-- **Currently ready for a good backend developer who can collaborate and create backend-database**
+### **Currently ready for a good backend developer who can collaborate and create backend-database**
+
+
 ---
 
 
